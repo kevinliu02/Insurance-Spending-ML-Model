@@ -1,4 +1,3 @@
 ## Project Description
-- Here is the written report my team and I did on the group project for Data Science 3000 at Western University. The project was about training various ML models to predict how much Canadian households spend on insurance and retirement depending on various factors such as their demographic and spending data. 
-- My role was to train the XGB model and analyze it, so I wrote pages 15 to 20.
-- Due to privacy concerns with using confidential data, I cannot include the Python code we wrote that trained the ML models, but the written report is attached.
+- This team project was a part of Data Science 3000 at Western University. In this project, our team of 4 used machine learning models like Elastic Net and XGBoost on Canadian household data to predict how much income is spent on insurance and retirement, finding that demographic and spending habits are key predictors and that nonlinear models like XGBoost provide the most accurate results.
+- Due to privacy concerns with using confidential real-world data, I cannot include the Python code or the written report on it.
